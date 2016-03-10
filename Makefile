@@ -37,3 +37,4 @@ prepare:
 	docker cp ubuntu-donor:/etc/fonts etc/
 
 	docker rm -f ubuntu-donor || true
+	rm -rf etc/ usr/ phantomjs
