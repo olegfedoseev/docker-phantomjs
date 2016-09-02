@@ -1,7 +1,8 @@
 # docker-phantomjs
-[![](https://badge.imagelayers.io/olegfedoseev/phantomjs:latest.svg)](https://imagelayers.io/?images=olegfedoseev/phantomjs:latest 'Get your own badge on imagelayers.io') 
 
 Smallest PhantomJS 2.0 image based on Busybox and some magic
+
+[![](https://images.microbadger.com/badges/image/olegfedoseev/phantomjs.svg)](http://microbadger.com/images/olegfedoseev/phantomjs "Get your own image badge on microbadger.com")
 
 # Get image
 `docker pull olegfedoseev/phantomjs`
